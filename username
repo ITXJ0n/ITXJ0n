@@ -1,0 +1,34 @@
+- user_id: 1262856232637829180
+  username: Itxj0n
+  content: |
+    For <code>*Italics*</code> use the <code>i</code> HTML tag: <i>Italics</i>
+    For <code>**Bold**</code> use the <code>b</code> HTML tag: <b>Bold</b>
+    For <code>~~Line-Through~~</code> use the <code>del</code> HTML tag: <del>Line-Through</del>
+    For <code>`Code Snippet`</code> use the <code>code</code> HTML tag: <code>Code Snippet</code>
+    For <code>__Underline__</code> use the <code>u</code> HTML tag: <u>Underline</u>
+    For <code>> Quote</code> use the <code>discord-quote</code> HTML tag: <discord-quote>Quote</discord-quote>
+- user_id: 1262856232637829180
+  username: Itxj0n
+  content: |
+    You can make spoilers by using the <code>discord-spoiler</code> HTML tag: <discord-spoiler>Spoiler!</discord-spoiler>
+- user_id: 1262856232637829180
+  username: Itxj0n
+  content: |
+    You can embed links by using the <code>a</code> HTML tag with the <code>href</code> attrubute: <a href="https://nilpointer-software.github.io/mdbook-discord-components/">Test site</a>
+- user_id: 1262856232637829180
+  username: Itxj0n
+  content: " "
+  embed:
+    title: Embed Text Formatting
+    color: "#00FFFF"
+    description: |
+      <i>Italics</i>, <b>Bold</b>, <del>Line-Truough</del>, <u>Underline</u>, <a href="https://nilpointer-software.github.io/mdbook-discord-components/">Links</a>, and <code>Code Snippets</code> use the same HTML tags.
+      
+      Embeds can contain multiline code blocks.
+      Add a <code>multiline</code> class to a <code>code</code> HTML tag:
+      <code class="multiline">This is a large code block.
+      It supports multiple lines.
+      </code>
+      Quotes use the <code>blockquote</code> HTML tag: <blockquote>Quote</blockquote>
+      Spoiler use the <code>span</code> HTML tag with the <code>spoiler</code> class:
+      <span class="spoiler">Spoiler</span>
